@@ -1,3 +1,5 @@
+### Yo, I'm Daria!
+
 ![languages](https://img.shields.io/static/v1?label=&message=языки%20программирования:&color=111&style=flat-square)
 ![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=eee&logoColor=474747&style=flat-square)
 ![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=typescript&color=eee&logoColor=474747&style=flat-square)
@@ -28,3 +30,7 @@
 ![vue](https://img.shields.io/static/v1?logo=vuedotjs&label=&message=vue&color=eee&logoColor=474747&style=flat-square)
 ![solid](https://img.shields.io/static/v1?logo=solid&label=&message=solid&color=eee&logoColor=474747&style=flat-square)
 ![wysiwyg](https://img.shields.io/static/v1?&label=&message=wysiwyg&color=eee&style=flat-square)
+
+---
+![git](https://img.shields.io/static/v1?label=&message=для%20связи:&color=eee&style=flat-square)
+![gmail](https://img.shields.io/static/v1?logo=gmail&label=&message=gmail&color=eee&logoColor=EA4335&style=flat-square&link=mailto%3Adrsvnv77%40gmail.com)
