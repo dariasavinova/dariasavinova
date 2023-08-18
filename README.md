@@ -25,5 +25,6 @@
 ![gitlab](https://img.shields.io/static/v1?logo=gitlab&label=&message=gitlab&color=eee&logoColor=474747&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 ![git](https://img.shields.io/static/v1?label=&message=также%20работала%20c:&color=111&style=flat-square)
+![vue](https://img.shields.io/static/v1?logo=vuedotjs&label=&message=vue&color=eee&logoColor=474747&style=flat-square)
 ![solid](https://img.shields.io/static/v1?logo=solid&label=&message=solid&color=eee&logoColor=474747&style=flat-square)
 ![wysiwyg](https://img.shields.io/static/v1?&label=&message=wysiwyg&color=eee&style=flat-square)
