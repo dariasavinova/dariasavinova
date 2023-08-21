@@ -1,7 +1,5 @@
 ### Yo, I'm Daria!
 
----
-
 ![languages](https://img.shields.io/static/v1?label=&message=языки%20программирования:&color=111&style=flat-square)
 ![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=eee&logoColor=474747&style=flat-square)
 ![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=typescript&color=eee&logoColor=474747&style=flat-square)
