@@ -19,7 +19,7 @@
 ![css3](https://img.shields.io/static/v1?logo=css3&label=&message=css3&color=eee&logoColor=474747&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 ![styling](https://img.shields.io/static/v1?label=&message=стилизация:&color=111&style=flat-square)
-![sass](https://img.shields.io/static/v1?logo=sass&label=&message=sass&color=eee&logoColor=DDD&style=flat-square)
+![sass](https://img.shields.io/static/v1?logo=sass&label=&message=sass&color=eee&logoColor=474747&style=flat-square)
 ![css-modules](https://img.shields.io/static/v1?logo=cssmodules&label=&message=css-modules&color=eee&logoColor=474747&style=flat-square)
 ![tailwind-css](https://img.shields.io/static/v1?logo=tailwindcss&label=&message=tailwind&color=eee&logoColor=474747&style=flat-square)
 
